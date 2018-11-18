@@ -1,0 +1,16 @@
+1138   William    M    3      82    84
+1422   Chloe      F    1      72    75
+2293   Michael    M    4      93    95
+2483   Anthony    M    4      97    98
+2568   Andrew     M    1      74    55
+3320   Sophia     F    4      99    98
+3484   Emily      F    3      91    98
+3610   Alexander  M    2      78    79
+3859   Joshua     M    1      19     0
+4738   Natalie    F    2      85    79
+5187   Elizabeth  F    3      90    91
+6247   Isabella   F    1      89    88
+6992   Daniel     M    3      82    93
+7123   Jacob      M    1      75    73
+7156   Samantha   F    2      82    80
+8471   Olivia     F    3      89    87
